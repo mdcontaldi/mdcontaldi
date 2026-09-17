@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Game Security Engineer at Electronic Arts</strong><br>
-  Anti-Cheat & Anti-Tamper · Reverse Engineering · Low-Level Systems · ARM64 · Compiler Internals
+  Anti-Cheat & Anti-Tamper · Reverse Engineering · Low-Level Systems · ARM64
 </p>
 
 <p align="center">
