@@ -43,7 +43,7 @@ I'm currently completing a joint Computer Science program through Lakehead Unive
 
 ## Links
 
-- [LinkedIn](https://www.linkedin.com/in/matthew-contaldi-926554279/)
+- [LinkedIn](https://www.linkedin.com/in/mdcontaldi/)
 - [Blog](https://mdcontaldi.github.io/blog/)
 - [UnknownCheats](https://www.unknowncheats.me/forum/members/5088631.html)
 - [HackerOne](https://hackerone.com/dbvm)
